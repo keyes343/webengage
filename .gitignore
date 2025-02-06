@@ -4,7 +4,7 @@ node_modules/
 # Ignore all log files
 *.log
 *.env
-
+*.vscode
 # Ignore build directory
 /build
 /dist
