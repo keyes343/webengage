@@ -59,5 +59,3 @@ router.get("/generate-csv", async (req: Request, res: Response) => {
     console.log(error);
   }
 });
-
-// router.use("/user", ctrl.user_router);

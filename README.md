@@ -15,12 +15,15 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/webengage/webengage.git
    ```
 2. Navigate to the project directory:
+
    ```bash
+
    cd webengage
    ```
+
 3. Install the dependencies:
    ```bash
    yarn install
@@ -38,15 +41,3 @@ To install and set up the project, follow these steps:
 ## Usage
 
 After following the installation steps, you can generate the CSV file by accessing the endpoint mentioned above. The response will include the path to the generated CSV file.
-
-## Contributing
-
-Contributions are welcome! Please follow these guidelines when contributing to the project:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Submit a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
